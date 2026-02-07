@@ -1,2 +1,2 @@
 # Loan-Calculator
-calculator for your EMI 
+calculator
